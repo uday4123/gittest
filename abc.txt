@@ -1,2 +1,4 @@
+(1) json veiwer
 http://chris.photobooks.com/json/default.htm
+(2) generating java classes from json
 https://www.freecodeformat.com/json2pojo.php
