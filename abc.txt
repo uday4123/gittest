@@ -1,1 +1,2 @@
-dsjahjasf
+http://chris.photobooks.com/json/default.htm
+https://www.freecodeformat.com/json2pojo.php
